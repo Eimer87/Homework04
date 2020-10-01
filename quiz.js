@@ -160,7 +160,7 @@
 
 
 
-var total_seconds = 10 * 1;
+var total_seconds = 60 * 1;
 var c_minutes = parseInt(total_seconds / 60);
 var c_seconds = parseInt(total_seconds % 60);
 var timer;
